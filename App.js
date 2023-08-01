@@ -5,7 +5,7 @@ import Viewtest from './Viewtest';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>TESTTTT</Text>
+      <Text>create branch 2</Text>
       <Viewtest />
       <StatusBar style="auto" />
     </View>
