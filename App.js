@@ -5,7 +5,7 @@ import Viewtest from './Viewtest';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>CHANNEL TEST BRANCH UPDATE</Text>
+      <Text>CHANNEL TEST BRANCH UPDATE 03</Text>
       <Viewtest />
       <StatusBar style="auto" />
     </View>
